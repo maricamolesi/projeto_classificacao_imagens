@@ -1,4 +1,4 @@
-# Iniciacao-Cientifica
+# Projeto de Classificação de Imagens de Texturas
 
 Projeto da minha iniciação científica *"Treinamento de autômatos celulares para reconhecimento de padrões em imagens de textura".*
 O relatório final do projeto pode ser conferido em https://www.ime.unicamp.br/~mac/db/2020-1S-173962.pdf
